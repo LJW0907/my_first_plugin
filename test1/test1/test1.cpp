@@ -1,7 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n"; //change
+    cout << "Hello World!\n"; //change
+
+	cout << "new sentence" << endl;
 }
 
